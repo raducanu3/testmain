@@ -4,6 +4,7 @@ public class SumaNumerelor {
 		int a = 3;
 		int b = 6;
 		int sum = a + b;
+		System.out.println("a=" + a);
 		System.out.println(sum);
 
 	}
